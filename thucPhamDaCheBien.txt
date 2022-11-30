@@ -1,0 +1,3 @@
+TuongOtCholimex_830g,210001,Cholimex,24,26,99,99,4-12-2023
+KemOcQueCelano_110ml,210002,KinhDo,18,20,99,99,5-12-2023
+BanhBongLan,210003,KinhDo,18,20,99,99,5-12-2023
